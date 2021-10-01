@@ -25,7 +25,7 @@ token = input(f'{Fore.MAGENTA}Enter {Fore.LIGHTMAGENTA_EX}Token:{Fore.WHITE} ')
 
 def start():
     print(f'''
-{Fore.CYAN}                    Dev: {Fore.MAGENTA}@uo2
+{Fore.CYAN}                    Dev: {Fore.MAGENTA}@9n8
 {Fore.CYAN}                    Login:{Fore.MAGENTA}[{Fore.WHITE}{client.user.name}{Fore.MAGENTA}#{Fore.WHITE}{client.user.discriminator}{Fore.MAGENTA}]
 ''')
 
