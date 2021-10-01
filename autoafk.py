@@ -1,6 +1,6 @@
-import discord, time, os, colorama, random, asyncio
+import discord, time, os, random
 from time import sleep
-from colorama import Fore, Style
+from colorama import Fore
 from discord.ext import commands
 from random import randint
 
